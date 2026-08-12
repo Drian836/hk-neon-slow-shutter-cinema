@@ -51,7 +51,8 @@
 
 ### 下载源码
 
-- 版本化安装包：进入 [Releases](https://github.com/Drian836/hk-neon-slow-shutter-cinema/releases)，下载 `hk-neon-slow-shutter-cinema-v0.3.0.zip`；
+- 版本化下载：进入 [Releases](https://github.com/Drian836/hk-neon-slow-shutter-cinema/releases)，选择 `v0.3.0`，再下载 **Source code (zip)** 或 **Source code (tar.gz)**；解压后将顶层目录重命名为 `hk-neon-slow-shutter-cinema` 再安装；
+- v0.3.0 ZIP 直链：<https://github.com/Drian836/hk-neon-slow-shutter-cinema/archive/refs/tags/v0.3.0.zip>；
 - GitHub 源码包：在仓库页面选择 **Code → Download ZIP**；
 - Git 克隆：
 
