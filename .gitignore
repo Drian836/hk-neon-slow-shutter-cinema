@@ -1,0 +1,21 @@
+# Local and generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.bak
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+work/
+outputs/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
