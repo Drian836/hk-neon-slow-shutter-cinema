@@ -36,7 +36,8 @@ Hong Kong night is not treated as generic cyberpunk. The anti-identity rules rej
 
 ### Download the source
 
-- Release package: open [Releases](https://github.com/Drian836/hk-neon-slow-shutter-cinema/releases) and download `hk-neon-slow-shutter-cinema-v0.3.0.zip`.
+- Versioned release: open [Releases](https://github.com/Drian836/hk-neon-slow-shutter-cinema/releases), choose `v0.3.0`, then download **Source code (zip)** or **Source code (tar.gz)**. Rename the extracted top-level directory to `hk-neon-slow-shutter-cinema` before installation.
+- Direct v0.3.0 ZIP: <https://github.com/Drian836/hk-neon-slow-shutter-cinema/archive/refs/tags/v0.3.0.zip>
 - GitHub source archive: choose **Code → Download ZIP** on the repository page.
 - Git clone:
 
