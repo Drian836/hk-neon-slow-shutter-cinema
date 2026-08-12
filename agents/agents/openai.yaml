@@ -1,0 +1,4 @@
+interface:
+  display_name: "HK Neon Slow-Shutter Cinema"
+  short_description: "Create Hong Kong cinema frames, photo transforms, and posters"
+  default_prompt: "Use $hk-neon-slow-shutter-cinema to turn this scene, portrait, or reference set into a lived-in Hong Kong cinema frame or poster with explicit time, camera, space, light, and preservation logic."
