@@ -4,9 +4,13 @@ Repository: <https://github.com/Drian836/hk-neon-slow-shutter-cinema>
 
 ## Recommended download / 推荐下载
 
-Open [GitHub Releases](https://github.com/Drian836/hk-neon-slow-shutter-cinema/releases) and download `hk-neon-slow-shutter-cinema-v0.3.0.zip`. The archive contains the Skill directory itself; extract that directory directly under your Codex skills folder.
+Open [GitHub Releases](https://github.com/Drian836/hk-neon-slow-shutter-cinema/releases), choose `v0.3.0`, and download **Source code (zip)** or **Source code (tar.gz)**. After extraction, rename the generated top-level directory (for example `hk-neon-slow-shutter-cinema-0.3.0`) to exactly `hk-neon-slow-shutter-cinema`, then place it under your Codex skills folder.
 
-进入 [GitHub Releases](https://github.com/Drian836/hk-neon-slow-shutter-cinema/releases)，下载 `hk-neon-slow-shutter-cinema-v0.3.0.zip`。压缩包内部已经是 Skill 目录；将它直接解压到 Codex Skills 目录即可。
+进入 [GitHub Releases](https://github.com/Drian836/hk-neon-slow-shutter-cinema/releases)，选择 `v0.3.0`，再下载 **Source code (zip)** 或 **Source code (tar.gz)**。解压后，把 GitHub 生成的顶层目录（例如 `hk-neon-slow-shutter-cinema-0.3.0`）重命名为准确的 `hk-neon-slow-shutter-cinema`，再放入 Codex Skills 目录。
+
+Direct ZIP / ZIP 直链：
+
+<https://github.com/Drian836/hk-neon-slow-shutter-cinema/archive/refs/tags/v0.3.0.zip>
 
 ## Install on Windows / Windows 安装
 
@@ -94,4 +98,3 @@ Remove only the exact `hk-neon-slow-shutter-cinema` directory from `.codex/skill
 - `evals/evals.json`: 17 behavioral evaluations;
 - `agents/openai.yaml`: Codex interface metadata;
 - `README.md` and `README.zh-CN.md`: English and Chinese usage guides.
-
